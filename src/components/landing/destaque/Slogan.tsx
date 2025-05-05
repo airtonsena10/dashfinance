@@ -3,7 +3,7 @@ import principal from "../../../../public/principal.jpg"
 
 export default function Slogan() {
   return (
-    <section className="py-20 md:py-32 bg-[#f1f1f0]">
+    <section className=" bg-[#f1f1f0]">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-12 md:mb-0 animate-fade-in-left">

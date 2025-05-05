@@ -1,7 +1,9 @@
 import Link from "next/link"
 
+import React from "react" 
+
 interface MenuItemProps {
-    children: any
+    children: React.ReactNode 
     url?: string
     onClick?: () => void
     className?: string
