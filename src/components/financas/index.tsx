@@ -62,7 +62,7 @@ export default function Financas() {
                         leftIcon={<IconPlus />}
                         onClick={criarNovaTransacao}
                     >Nova transação</Button>
-                    <SegmentedControl
+                    <SegmentedControl className="hidden md:block"
                         data={[
                             { label: <IconList />, value: 'lista' },
                             { label: <IconLayoutGrid />, value: 'grade' }
