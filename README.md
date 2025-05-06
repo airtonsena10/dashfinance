@@ -1,3 +1,8 @@
+[![Screenshot-20250506-102630.png](https://i.postimg.cc/WzMMXqcq/Screenshot-20250506-102630.png)](https://postimg.cc/Pv5pqxxd)
+
+
+
+
 ## Sobre o Projeto
 
 dash finance é uma aplicação web para controle de finanças pessoais com landing page e dashboard. O projeto utiliza o Firebase para autenticação e armazenamento de dados.
